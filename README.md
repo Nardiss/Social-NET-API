@@ -14,10 +14,9 @@ Social media API routes that uses CRUD principles for users, reacts and the thou
  * Usage
  * Contribute
  * Screenshots
- * Technology
  * Contributing
 
- ## Wlk through Video
+ ## Walk through Video
 
 
  ## Installation
@@ -32,5 +31,21 @@ Social media API routes that uses CRUD principles for users, reacts and the thou
  To run please use the following command after install:
 
  `npm start`
+
+ ## Usage
+
+ * API
+ * MongoDB
+ * Insomnia
+ * node.js
+ * Javascript
+ * NoSQL
+
+ ## Contribution
+
+ Nardos Abraha
+
+
+
 
 
